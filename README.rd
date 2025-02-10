@@ -28,7 +28,7 @@ Este repositório contém um projeto de **e-commerce** desenvolvido com **FastAP
 
 ## 📜 Como executar o projeto?
 
-📌 Ainda em desenvolvimento...  
+📌 Ainda em desenvolvimento... 
 
 Futuramente, o repositório terá instruções para instalar e rodar o projeto localmente!  
 
