@@ -38,4 +38,4 @@ Se quiser acompanhar ou contribuir, fique à vontade para abrir **issues** e **p
 
 ---
 
-📌 **Desenvolvido por Jonnathas** 🚀  
+ **Desenvolvido por Jonnathas** 🚀  
