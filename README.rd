@@ -4,7 +4,7 @@
 
 Este repositório contém um projeto de **e-commerce** desenvolvido com **FastAPI**. O objetivo é construir um sistema eficiente, modular e escalável para a gestão de produtos, usuários e pedidos.
 
-## 📌 Status do projeto
+##  Status do projeto
 
 ✅ Planejamento da arquitetura  
 🔄 Desenvolvimento inicial  
@@ -18,7 +18,7 @@ Este repositório contém um projeto de **e-commerce** desenvolvido com **FastAP
 - 🔄 **Microsserviços** - Estrutura modular  
 - 🔐 **Autenticação JWT** - Segurança para usuários  
 
-## 📌 Funcionalidades previstas
+##  Funcionalidades previstas
 
 - 🔹 Cadastro e login de usuários  
 - 🔹 Gerenciamento de produtos e categorias  
@@ -28,7 +28,7 @@ Este repositório contém um projeto de **e-commerce** desenvolvido com **FastAP
 
 ## 📜 Como executar o projeto?
 
-📌 Ainda em desenvolvimento... 
+ Ainda em desenvolvimento... 
 
 Futuramente, o repositório terá instruções para instalar e rodar o projeto localmente!  
 
